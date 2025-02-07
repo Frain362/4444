@@ -1,0 +1,31 @@
+body{
+    background: rgb(255, 255, 255);
+
+    
+}
+.post-info{
+    color: rgb(4, 80, 141);
+}
+div{
+    background: rgb(255, 255, 255);
+    color: white;
+
+}
+
+div ul li img {
+    width: 250px;
+    height: 250px;
+    alt: 'photo image poster';
+}
+div{
+    b{
+        color: rgb(167, 189, 209);
+    }
+    a1{
+        color: rgb(167, 189, 209);
+    }
+    a{
+        color: black;
+    }
+
+}
