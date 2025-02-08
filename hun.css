@@ -4,14 +4,17 @@ body{
     
 }
 .post-info{
-    color: rgb(4, 80, 141);
+    color: rgb(16, 102, 172);
 }
 div{
     background: rgb(255, 255, 255);
     color: white;
 
-}
 
+}
+.post-uhn{
+    color: rgb(9, 80, 138);
+}
 div ul li img {
     width: 250px;
     height: 250px;
