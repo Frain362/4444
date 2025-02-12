@@ -1,0 +1,39 @@
+.scroll-table-body{
+    height: 300px;
+    overflow-x: auto ;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    border-bottom: 1px slod #eee;
+
+}
+.scroll-table table{
+    width: 100%;
+    table-layout: fixed;
+    border: none;
+
+
+}
+.scroll-table thead th{
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    padding: 10px 15px;
+    background: rgb(253, 142, 253);  
+    font-size: 14px;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+
+}
+.scroll-table tbody{
+    text-align: center;
+    font-size: 14px;
+    border-left: 1px solid #ddd;
+    border-right: 1pz solid #ddd;
+    padding: 10px 15px;
+    vertical-align: center;
+
+}
+.scroll-table tbody tr:nth-child(even){
+    background: #e01a1a;
+
+}
